@@ -1,4 +1,5 @@
 # 시계열 데이터 기반 봇 탐지 데이터셋 구축 프로그래밍import numpy as np
+import numpy as np
 import matplotlib.pyplot as plt
 import os
 import matplotlib.font_manager as fm
